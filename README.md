@@ -1,1 +1,1 @@
-# gradana-view
+# simple wallet app view
